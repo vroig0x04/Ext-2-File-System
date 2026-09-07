@@ -197,7 +197,7 @@ To remove compiled files:
 make clean
 ```
 
-## 🔧 Ext-2 File System Structure
+##  Ext-2 File System Structure
 
 ### Superblock
 Contains global file system information:
