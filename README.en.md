@@ -17,7 +17,7 @@ The system implements:
 
 **Disponible en otros idiomas:** [Español](README.md)
 
-## 🏗️ Project Composition
+##  Project Composition
 
 ```
 C Language:      97.5%  | Main simulator logic
@@ -25,7 +25,7 @@ Shell:            1.6%  | Compilation and execution scripts
 Makefile:         0.9%  | Build automation
 ```
 
-## 🛠️ Tools and Dependencies
+##  Tools and Dependencies
 
 ### System Requirements
 
@@ -106,7 +106,7 @@ Ext-2-File-System/
 └── texto2.txt                       # Test data
 ```
 
-## 🚀 Usage Guide
+##  Usage Guide
 
 ### 1. Initial Setup
 
@@ -224,7 +224,7 @@ Tracking of free and occupied i-nodes
 ### Data Blocks
 Actual storage of file contents
 
-## 🧪 Test Cases
+##  Test Cases
 
 The repository includes test scripts:
 
@@ -233,13 +233,13 @@ The repository includes test scripts:
 ```
 
 This script validates:
-- ✅ File system creation
-- ✅ CRUD operations on files
-- ✅ Directory management
-- ✅ Permission control
-- ✅ System integrity
+-  File system creation
+-  CRUD operations on files
+-  Directory management
+-  Permission control
+-  System integrity
 
-## 📊 Main Features
+##  Main Features
 
 ### Permission Support
 - **User (Owner)**: rwx (4, 2, 1)
@@ -260,7 +260,7 @@ This script validates:
 - Permission management
 - Integrity verification
 
-## 🔒 Synchronization and Concurrency
+##  Synchronization and Concurrency
 
 The system uses **POSIX mutexes** (pthread) to ensure thread-safe operations:
 
