@@ -17,7 +17,7 @@ El sistema implementa:
 
 **Available in other languages:** [English](README.en.md)
 
-## 🏗️ Composición del Proyecto
+##  Composición del Proyecto
 
 ```
 Lenguaje C:      97.5%  | Lógica principal del simulador
@@ -106,7 +106,7 @@ Ext-2-File-System/
 └── texto2.txt                       # Datos de prueba
 ```
 
-## 🚀 Guía de Uso
+##  Guía de Uso
 
 ### 1. Preparación Inicial
 
@@ -224,7 +224,7 @@ Rastreo de i-nodos libres y ocupados
 ### Bloques de datos
 Almacenamiento real de contenido de ficheros
 
-## 🧪 Casos de Prueba
+##  Casos de Prueba
 
 El repositorio incluye scripts de prueba:
 
@@ -233,13 +233,13 @@ El repositorio incluye scripts de prueba:
 ```
 
 Este script valida:
-- ✅ Creación de sistemas de ficheros
-- ✅ Operaciones CRUD en ficheros
-- ✅ Gestión de directorios
-- ✅ Control de permisos
-- ✅ Integridad del sistema
+-  Creación de sistemas de ficheros
+-  Operaciones CRUD en ficheros
+-  Gestión de directorios
+-  Control de permisos
+-  Integridad del sistema
 
-## 📊 Características Principales
+##  Características Principales
 
 ### Soporte de Permisos
 - **Usuario (Owner)**: rwx (4, 2, 1)
@@ -260,7 +260,7 @@ Este script valida:
 - Gestión de permisos
 - Verificación de integridad
 
-## 🔒 Sincronización y Concurrencia
+##  Sincronización y Concurrencia
 
 El sistema utiliza **mutex POSIX** (pthread) para garantizar operaciones thread-safe:
 
